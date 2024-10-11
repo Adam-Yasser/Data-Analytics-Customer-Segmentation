@@ -73,13 +73,6 @@ In this analysis the customer segment was divided into 11 groups. The groups bei
 - Becoming Loyal
 - Almost lost Customers
 
-### 4. RFM Analysis: Scatter Plots
-#### Recency vs Monetary :
-The visualization shows that recent customers have purchased more products and generated relatively more revenue than the customers who visited a while ageo.<br>
-
-#### Frequency vs Monetary : 
-The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business<br>
-
 ## Datasets Used
 The datasets used include:
 - __Raw_data.xlsx__: This excel file dataset included the following sheets of data:
